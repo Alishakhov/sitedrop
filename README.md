@@ -5,8 +5,7 @@
 ## How it made
 
     * HTML5, CSS3
-    * The I got design from one of the design book from the library
-    * I did the coding to look exactly like the orginal
+    * I turned a design’s mockup a from Design book into the semantic HTML and CSS that browsers render
     * The images were found online for placeholder
     * Text in the content for placeholder
     * Using Photoshop for resizing the images and others
