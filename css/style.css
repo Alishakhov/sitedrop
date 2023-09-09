@@ -46,13 +46,15 @@ body {
 }
 
 .header-style-container a:hover {
-	background-color: #66a;
+	background-color: #fff;
 	border-radius: 4px 4px 4px 4px;
+	color: #225;
 }
 
-.header-style-container a:visited {
-	color: #f00;
-}
+/* .header-style-container a:visited {
+	color: #fff;
+	background: #225;
+} */
 
 .header-style-container a:active {
 	color: #fff;
