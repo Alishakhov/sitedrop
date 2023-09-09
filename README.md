@@ -6,8 +6,7 @@
 ## How it made
 
     * HTML5, CSS3
-    * This was a picture with design that I found in my local library from one the design webpage book.
-    * I made this into a static single webpage. using html and css
-    * The images were found online for placeholder
-    * Text in the content for placeholder
+    * This was a design picture that I found in my local library from one of the design webpage book.
+    * I made this into a static single webpage. using html and css.
+    * All content were found online for placeholder purpose only.
     * Using Photoshop for resizing the images and others
